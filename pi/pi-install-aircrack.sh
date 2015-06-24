@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # [install] prerequisites
-sudo apt-get -y install build-essential iw libssl-dev libnl-3-dev libnl-genl-3-dev libpcre3-dev sqlite3 libsqlite3-dev;
+sudo apt-get -y install build-essential iw libssl-dev libnl-3-dev libnl-genl-3-dev libpcre3-dev sqlite3 libsqlite3-dev subversion;
 
 # [download] stable
 # wget http://download.aircrack-ng.org/aircrack-ng-1.2-rc2.tar.gz;
